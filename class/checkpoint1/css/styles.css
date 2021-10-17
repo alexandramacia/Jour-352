@@ -1,0 +1,15 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+    color: #33485e;
+    background-color:red;
+}
+
+img {
+    max-width: 600px;
+    width: 100%;
+}
+.center {
+  display: block;
+  margin: auto;
+  width: 60%;
+}
